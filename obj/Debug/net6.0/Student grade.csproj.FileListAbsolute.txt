@@ -1,0 +1,15 @@
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.csproj.AssemblyReference.cache
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.AssemblyInfoInputs.cache
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.AssemblyInfo.cs
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.csproj.CoreCompileInputs.cache
+F:\c#\Student grade\bin\Debug\net6.0\Student grade.exe
+F:\c#\Student grade\bin\Debug\net6.0\Student grade.deps.json
+F:\c#\Student grade\bin\Debug\net6.0\Student grade.runtimeconfig.json
+F:\c#\Student grade\bin\Debug\net6.0\Student grade.dll
+F:\c#\Student grade\bin\Debug\net6.0\Student grade.pdb
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.dll
+F:\c#\Student grade\obj\Debug\net6.0\refint\Student grade.dll
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.pdb
+F:\c#\Student grade\obj\Debug\net6.0\Student grade.genruntimeconfig.cache
+F:\c#\Student grade\obj\Debug\net6.0\ref\Student grade.dll
